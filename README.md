@@ -1,4 +1,5 @@
-#Snake AI Game
+##Snake AI Game
+
 This project is an AI-powered Snake game built using Python, PyTorch, and Pygame. The AI learns to play the classic Snake game using reinforcement learning, specifically Deep Q-Learning.
 
 Features
